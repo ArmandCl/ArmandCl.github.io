@@ -1,0 +1,28 @@
+// Mode nuit : rendre les couleurs de ton CV lisibles
+[data-theme="dark"] {
+  // Badges (les petites étiquettes de date)
+  span[style*="background-color"] {
+    background-color: #555 !important;
+    color: #fff !important;
+  }
+  
+  // Titres h3
+  h3[style*="color"] {
+    color: #66ccff !important;  // bleu clair sur fond sombre
+  }
+  
+  // Liens
+  a[style*="color"] {
+    color: #66ccff !important;
+  }
+  
+  // Texte descriptif (les paragraphes en gris #555)
+  p[style*="color: #555"] {
+    color: #bbbbbb !important;
+  }
+  
+  // L'icône PDF
+  i[style*="color"] {
+    color: #66ccff !important;
+  }
+}

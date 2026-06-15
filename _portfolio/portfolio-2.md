@@ -1,6 +1,6 @@
 ---
 title: "ParcoursVis : Heatmap"
-excerpt: "Comming soon !! <br/><img src='/images/parcoursvis_preview.jpg'>"
+excerpt: "Coming soon !! <br/><img src='/images/parcoursvis_preview.jpg'>"
 collection: portfolio
 ---
 
