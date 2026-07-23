@@ -16,8 +16,7 @@ I hold a **Bachelor's degree in Application Development**. Currently, I am pursu
 
 ## News
 
-- **Fall 2026** – Exchange semester at [SUNY Oswego](https://ww1.oswego.edu/) (USA)  
-- **June 2026 - August 2026** – Internship with the [Aviz](https://www.aviz.fr/) team (Inria Saclay)
+- **Fall 2026** – Exchange semester at [SUNY Oswego](https://ww1.oswego.edu/) (USA) 
 
 ---
 
