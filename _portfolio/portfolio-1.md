@@ -1,5 +1,5 @@
 ---
-title: "Tuning a Keycube into a music instrument "
+title: "Turning a Keycube into a music instrument "
 show_permalink: false
 excerpt: "<img src='/images/keycube.jpg' alt='The Keycube'>"
 collection: portfolio
